@@ -1,3 +1,4 @@
+package com.will.smarttv;
 import java.util.Scanner;
 
 public class SmartTv {
