@@ -15,7 +15,7 @@ public class Scopes {
 
   public void printBalance (double newBalance) {
     System.out.println("Original balance: " + balance);
-    System.out.println("Your final balance " + newBalance); // Error unless received via params3
+    System.out.println("Your final balance " + newBalance); // Error unless received via params
   }
 
   public static void calculateExponentialDebt () {
