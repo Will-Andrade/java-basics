@@ -1,18 +1,23 @@
-## Getting Started
+# Simple Banking System Java
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+A simple class to simulate a banking system with withdraw, deposit and account creation functionalities. This project was made to practice Java's basic concepts.
 
-## Folder Structure
+## Table of Contents
+- Overview
+  - The Challenge
+- My Process
+  - What I learned
+- Author 
 
-The workspace contains two folders by default, where:
+## Overview
+### The Challenge
+This was a simple challenge proposed to test the knowledge acquired during classes on Java's basic sintax and code structure. The idea was to create a simple banking system that could create an account and withdraw a value. The deposit functionality and conditional checkings were added on my own voliton.
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+### My Process
+Built with simple java syntax and my current knowledge in the language. Hopefully I can come back to this and improve it by implemeting cleaner code, tests and OOP.
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+### What I learned
+I learned how to read user input via the `Scanner` class, the existing data types in Java, how to setup conditional flows and the application of separation of concerns with simple methods, avoiding a single bloated `main` method.
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+### Author
+GitHub - [Willian Andrade](https://github.com/Will-Andrade)
